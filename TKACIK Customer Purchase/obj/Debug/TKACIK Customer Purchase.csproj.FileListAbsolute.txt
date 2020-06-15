@@ -1,0 +1,9 @@
+c:\users\a201user\documents\visual studio 2017\Projects\TKACIK Customer Purchase\TKACIK Customer Purchase\bin\Debug\TKACIK Customer Purchase.exe.config
+c:\users\a201user\documents\visual studio 2017\Projects\TKACIK Customer Purchase\TKACIK Customer Purchase\bin\Debug\TKACIK Customer Purchase.exe
+c:\users\a201user\documents\visual studio 2017\Projects\TKACIK Customer Purchase\TKACIK Customer Purchase\bin\Debug\TKACIK Customer Purchase.pdb
+c:\users\a201user\documents\visual studio 2017\Projects\TKACIK Customer Purchase\TKACIK Customer Purchase\obj\Debug\TKACIK Customer Purchase.csprojResolveAssemblyReference.cache
+c:\users\a201user\documents\visual studio 2017\Projects\TKACIK Customer Purchase\TKACIK Customer Purchase\obj\Debug\TKACIK_Customer_Purchase.CustomerPurchaseForm.resources
+c:\users\a201user\documents\visual studio 2017\Projects\TKACIK Customer Purchase\TKACIK Customer Purchase\obj\Debug\TKACIK_Customer_Purchase.Properties.Resources.resources
+c:\users\a201user\documents\visual studio 2017\Projects\TKACIK Customer Purchase\TKACIK Customer Purchase\obj\Debug\TKACIK Customer Purchase.csproj.GenerateResource.Cache
+c:\users\a201user\documents\visual studio 2017\Projects\TKACIK Customer Purchase\TKACIK Customer Purchase\obj\Debug\TKACIK Customer Purchase.exe
+c:\users\a201user\documents\visual studio 2017\Projects\TKACIK Customer Purchase\TKACIK Customer Purchase\obj\Debug\TKACIK Customer Purchase.pdb
